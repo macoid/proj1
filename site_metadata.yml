@@ -1,4 +1,4 @@
-roducts:
+products:
     css: 'div[data-component-type="s-search-result"]'
     xpath: null
     multiple: true
