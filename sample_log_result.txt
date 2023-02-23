@@ -1,0 +1,80 @@
+Please input the product name you want to search : google pixel
+Extracting data from  https://www.amazon.in/s?k=googlepixel/
+Request blocked by amazon status code :  503
+Extracting data from  https://www.amazon.in/s?k=googlepixel/
+Request blocked by amazon status code :  503
+Extracting data from  https://www.amazon.in/s?k=googlepixel/
+Request blocked by amazon status code :  503
+Extracting data from  https://www.amazon.in/s?k=googlepixel/
+Request blocked by amazon status code :  503
+Extracting data from  https://www.amazon.in/s?k=googlepixel/
+Request blocked by amazon status code :  503
+Extracting data from  https://www.amazon.in/s?k=googlepixel/
+Request blocked by amazon status code :  503
+Extracting data from  https://www.amazon.in/s?k=googlepixel/
+Request blocked by amazon status code :  503
+Extracting data from  https://www.amazon.in/s?k=googlepixel/
+Product name -->  Google Pixel 6 5G (Sorta Seafoam, 8GB RAM, 128GB Storage)
+Product price -->  None
+Product rating -->  4.2 out of 5 stars
+To order this product use -->  www.amazon.in/Google-Pixel-Sorta-Seafoam-Storage/dp/B09HJY4G4Z/ref=sr_1_1?keywords=google+pixel%2F&qid=1677178423&sr=8-1
+Product name -->  Google Pixel 6a (Charcoal, 128 GB) (6 GB RAM)
+Product price -->  ₹29,699
+Product rating -->  4.2 out of 5 stars
+To order this product use -->  www.amazon.in/Google-Pixel-Charcoal-128-RAM/dp/B0B4DMBH5T/ref=sr_1_2?keywords=google+pixel%2F&qid=1677178423&sr=8-2
+Product name -->  Google Pixel 6a 5G (Charcoal, 6GB RAM, 128GB Storage)
+Product price -->  ₹30,000
+Product rating -->  4.1 out of 5 stars
+To order this product use -->  www.amazon.in/Google-Pixel-Charcoal-128GB-Storage/dp/B0B3PSRHHN/ref=sr_1_3?keywords=google+pixel%2F&qid=1677178423&sr=8-3
+Product name -->  Google Pixel 4 (6GB RAM, 64GB, 5.7 inches) Clearly White
+Product price -->  ₹21,999
+Product rating -->  4.0 out of 5 stars
+To order this product use -->  www.amazon.in/Google-Pixel-64GB-Clearly-White/dp/B0972PWTK3/ref=sr_1_4?keywords=google+pixel%2F&qid=1677178423&sr=8-4
+Product name -->  Google Pixel 6a 5G (Chalk, 6GB RAM, 128GB Storage)
+Product price -->  ₹29,935
+Product rating -->  3.8 out of 5 stars
+To order this product use -->  www.amazon.in/Google-Pixel-Chalk-128GB-Storage/dp/B0B3PQPNKS/ref=sr_1_5?keywords=google+pixel%2F&qid=1677178423&sr=8-5
+Product name -->  Google Pixel 7 5G (Snow, 8GB Ram 128GB Storage)
+Product price -->  ₹51,875
+Product rating -->  3.5 out of 5 stars
+To order this product use -->  www.amazon.in/Google-Pixel-Snow-128GB-Storage/dp/B0BJLCK3YD/ref=sr_1_6?keywords=google+pixel%2F&qid=1677178423&sr=8-6
+Product name -->  Google Pixel 5 5G 128GB - Just Black
+Product price -->  ₹28,390
+Product rating -->  4.0 out of 5 stars
+To order this product use -->  www.amazon.in/Google-Pixel-5G-128GB-Black/dp/B08H8X23ZB/ref=sr_1_7?keywords=google+pixel%2F&qid=1677178423&sr=8-7
+Product name -->  Google Pixel 4 (Oh So Orange, 6GB RAM, 64GB Storage)
+Product price -->  ₹21,999
+Product rating -->  4.0 out of 5 stars
+To order this product use -->  www.amazon.in/Google-Pixel-Orange-64GB-Storage/dp/B0884H12PN/ref=sr_1_8?keywords=google+pixel%2F&qid=1677178423&sr=8-8
+Product name -->  Google Pixel 6 5G (Kinda Coral, 8GB RAM, 128GB Storage)
+Product price -->  ₹37,499
+Product rating -->  4.2 out of 5 stars
+To order this product use -->  www.amazon.in/Google-Pixel-Kinda-Coral-Storage/dp/B09G76DGFY/ref=sr_1_9?keywords=google+pixel%2F&qid=1677178423&sr=8-9
+Product name -->  Google Pixel 3 (Just Black, 4GB RAM, 64GB Storage)
+Product price -->  ₹18,400
+Product rating -->  3.9 out of 5 stars
+To order this product use -->  www.amazon.in/Google-Pixel-Just-Black-Storage/dp/B07K2JSCX5/ref=sr_1_10?keywords=google+pixel%2F&qid=1677178423&sr=8-10
+Product name -->  Google Pixel 6 Pro (Sorta Sunny, 12GB RAM, 128GB Storage)
+Product price -->  ₹54,999
+Product rating -->  3.8 out of 5 stars
+To order this product use -->  www.amazon.in/Google-Pixel-Sorta-Sunny-Storage/dp/B09HZ939TR/ref=sr_1_11?keywords=google+pixel%2F&qid=1677178423&sr=8-11
+Product name -->  Google Pixel 6a 5G (Sage, 6GB RAM, 128GB Storage)
+Product price -->  ₹31,999
+Product rating -->  4.1 out of 5 stars
+To order this product use -->  www.amazon.in/Google-Pixel-Sage-128GB-Storage/dp/B0B3Q23BT4/ref=sr_1_12?keywords=google+pixel%2F&qid=1677178423&sr=8-12
+Product name -->  Google Pixel 6 (Stromy Black, 8GB RAM, 256 Storage)
+Product price -->  ₹39,930
+Product rating -->  4.2 out of 5 stars
+To order this product use -->  www.amazon.in/Google-Pixel-Stromy-Black-Storage/dp/B09HJYV6TC/ref=sr_1_13?keywords=google+pixel%2F&qid=1677178423&sr=8-13
+Product name -->  Google Pixel 7 Pro (Obsidian, 128 GB) (12 GB RAM)
+Product price -->  ₹72,490
+Product rating -->  4.3 out of 5 stars
+To order this product use -->  www.amazon.in/Google-Pixel-Pro-Obsidian-128/dp/B0BDJ55SSD/ref=sr_1_14?keywords=google+pixel%2F&qid=1677178423&sr=8-14
+Product name -->  Google Pixel 4 (Just Black, 6GB RAM, 64GB Storage)
+Product price -->  ₹19,999
+Product rating -->  4.0 out of 5 stars
+To order this product use -->  www.amazon.in/Google-Pixel-Just-Black-Storage/dp/B07ZTS5XPW/ref=sr_1_15?keywords=google+pixel%2F&qid=1677178423&sr=8-15
+Product name -->  Google Pixel 7 5G (Obsidian, 8GB Ram 128GB Storage)
+Product price -->  ₹52,249
+Product rating -->  3.5 out of 5 stars
+To order this product use -->  www.amazon.in/Google-Pixel-Obsidian-128GB-Storage/dp/B0BJL8H3QY/ref=sr_1_16?keywords=google+pixel%2F&qid=1677178423&sr=8-16
