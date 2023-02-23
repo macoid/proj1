@@ -29,7 +29,7 @@ def main_scraper(url):
     result = requests.get(url, headers=headers)
     # Checking if the request is rejected
     if result.status_code != 200:
-        print("Request blocked by amazon status code : ", url)
+        print("Request blocked by amazon status code : ", result.status_code)
         return None
     # Passing the api result to yaml for alligning it meaningfully
     return yaml_extractor.extract(result.text)
